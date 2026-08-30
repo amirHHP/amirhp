@@ -53,16 +53,40 @@ sitemap:
 
 
 languages:
-  Fa:
-    languagedirection: rtl
+  fa:
+    languageName: فارسی
+    languageCode: fa
+    languageDirection: rtl
     title: یادداشت‌های امیر اچ پی
-    weight: 2
-  en:
-    params:
-      linkedin: https://linkedin.com/whoever
-    title: Amirhp's Notes
     weight: 1
-    contentDir: content/English
+  en:
+    languageName: English
+    languageCode: en
+    languageDirection: ltr
+    title: Amirhp's Notes
+    weight: 2
+    menu:
+      main:
+        - identifier: about
+          name: About
+          url: /about/
+          weight: -110
+        - identifier: categories
+          name: Categories
+          url: /categories/
+          weight: 10
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 20
+        - identifier: linkedin
+          name: LinkedIn
+          url: https://linkedin.com/in/amirhp
+          weight: 30
+    params:
+      homeInfoParams:
+        Title: Amir HP 👨‍💻✈️🚀🏕️🧳
+        Content: Product manager, formerly founder and journalist. Curious about discovering and building new things.
 
 services:
   googleAnalytics:
@@ -71,6 +95,7 @@ services:
     shortname: amirhp-ir
 
 params:
+    displayFullLangName: true
     homeInfoParams:
         Title: امیر اچ پی 👨‍💻✈️🚀🏕️🧳
         Content: مدیرمحصول، قبل از آن فاندر و خبرنگار. علاقه‌مند به کشف و ساخت چیزهای جدید.
