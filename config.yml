@@ -1,0 +1,75 @@
+baseURL: https://amirhp.ir/
+languageCode: fa
+defaultContentLanguage: fa
+enableEmoji: true
+title: یادداشت‌های امیر اچ پی
+theme: 'PaperMod'
+description: 'سد'
+profileMode.enabled: true
+disqusShortname: amirhp-ir
+ShowShareButtons: true
+menu:
+  main:
+    - identifier: about
+      name: درباره من
+      pre: <i class='fa fa-heart'></i>
+      url: /about/
+      weight: -110
+    - identifier: Donate
+      name: انگیزه بیشتر نوشتن!
+      url: https://zarinp.al/wereadwemeet
+      weight: 30
+      weight: -100
+    - identifier: categories
+      name: دسته‌بندی‌ها
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: برچسب‌ها
+      url: /tags/
+      weight: 20
+    - identifier: linkedin
+      name: لینکدین
+      url: https://linkedin.com/in/amirhp
+      weight: 30
+    - identifier: page
+      name: شعرها
+      url: /poems/
+      weight: 30
+
+related:
+  includeNewer: false
+  indices:
+  - name: keywords
+    weight: 100
+  - name: date
+    weight: 10
+  threshold: 80
+  toLower: false
+
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 0.5
+
+
+
+languages:
+  Fa:
+    languagedirection: rtl
+    title: یادداشت‌های امیر اچ پی
+    weight: 2
+  en:
+    params:
+      linkedin: https://linkedin.com/whoever
+    title: Amirhp's Notes
+    weight: 1
+    contentDir: content/English
+
+profileMode.enabled: true
+
+
+params:
+    homeInfoParams:
+        Title: امیر اچ پی
+        Content: مدیرمحصول، قبل از آن فاندر و خبرنگار. علاقه‌مند به کشف و ساخت چیزهای جدید.
