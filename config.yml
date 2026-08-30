@@ -6,7 +6,6 @@ title: یادداشت‌های امیر اچ پی
 theme: 'PaperMod'
 description: 'سد'
 profileMode.enabled: true
-disqusShortname: amirhp-ir
 ShowShareButtons: true
 menu:
   main:
@@ -65,7 +64,27 @@ languages:
     weight: 1
     contentDir: content/English
 
+services:
+  googleAnalytics:
+    ID: G-G17E8MKQ45
+  disqus:
+    shortname: amirhp-ir
+
 params:
     homeInfoParams:
-        Title: امیر اچ پی
+        Title: امیر اچ پی 👨‍💻✈️🚀🏕️🧳
         Content: مدیرمحصول، قبل از آن فاندر و خبرنگار. علاقه‌مند به کشف و ساخت چیزهای جدید.
+    socialIcons:
+        - name: linkedin
+          url: https://linkedin.com/in/amirhp
+        - name: twitter
+          url: https://x.com/amir_hhp
+        - name: youtube
+          url: https://www.youtube.com/@amirHP
+        - name: telegram
+          url: https://t.me/amirhp
+    ShowShareButtons: true
+    ShowReadingTime: true
+    ShowBreadCrumbs: true
+    ShowPostNavLinks: true
+    comments: true

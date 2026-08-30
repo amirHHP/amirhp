@@ -1,0 +1,17 @@
+{{- /* Disqus. PaperMod only renders this partial when params.comments is true. */ -}}
+{{- with site.Config.Services.Disqus.Shortname }}
+<div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+        this.page.url = {{ $.Permalink | jsonify | safeJS }};
+        this.page.title = {{ $.Title | jsonify | safeJS }};
+    };
+    (function () {
+        var d = document, s = d.createElement("script");
+        s.src = "https://{{ . }}.disqus.com/embed.js";
+        s.setAttribute("data-timestamp", +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{{- end -}}
