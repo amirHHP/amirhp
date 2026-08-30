@@ -1,0 +1,6 @@
+{{- /* Static tweet link. Avoids Hugo's built-in shortcode, which fetches Twitter oEmbed and fails the build. */ -}}
+{{- $user := .Get "user" -}}
+{{- $id := .Get "id" -}}
+{{- if and $user $id -}}
+<p class="tweet-link"><a href="https://twitter.com/{{ $user }}/status/{{ $id }}" rel="noopener noreferrer" target="_blank">https://twitter.com/{{ $user }}/status/{{ $id }}</a></p>
+{{- end -}}

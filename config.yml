@@ -18,7 +18,6 @@ menu:
     - identifier: Donate
       name: انگیزه بیشتر نوشتن!
       url: https://zarinp.al/wereadwemeet
-      weight: 30
       weight: -100
     - identifier: categories
       name: دسته‌بندی‌ها
@@ -65,9 +64,6 @@ languages:
     title: Amirhp's Notes
     weight: 1
     contentDir: content/English
-
-profileMode.enabled: true
-
 
 params:
     homeInfoParams:
