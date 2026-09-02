@@ -2,6 +2,10 @@
 title: "What I learned from working at Takhfifan"
 date: 2023-01-30T18:03:17+03:30
 draft: false
+categories:
+- Product
+tags:
+- Takhfifan
 ---
 I wrote the titles and the intro in 1397, but for various reasons I never finished it and it was never published. After this much time, the subject is probably no longer confidential.
 

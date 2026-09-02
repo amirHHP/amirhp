@@ -2,6 +2,10 @@
 title: "Only one reason to use free software: mutual respect"
 date: 2014-08-18T20:10:30+03:30
 draft: false
+categories:
+- Free software
+tags:
+- Linux
 ---
 It has been about two months since I moved, after years, from openSUSE to Mint. For a long time I could not find a distro that would convince me to drop my openSUSE habits, until I found that missing piece. I wanted to write about Mint and the experience I have had with it, then I thought there might be someone who does not know what Linux is or what it is for. I remembered my own teenage years, how I tore through sites looking for anything about Linux, read it hungrily, and always wished someone would explain it more fully. So I thought if a teenage friend happens to read this, or finds it in a search, they deserve a complete piece. I will take this in three texts. This one is about free software; the next is about GNU/Linux.
 

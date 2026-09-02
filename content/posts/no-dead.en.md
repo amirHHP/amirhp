@@ -2,6 +2,10 @@
 title: "Nobody remembers death"
 date: 2014-07-18T20:10:30+03:30
 draft: false
+categories:
+- Technology
+tags:
+- Social networks
 ---
 On an ordinary day, scrolling through the usual empty Facebook posts, I saw someone had written a note regretting the death of one of my friends. At first I thought they were kidding, but when I looked at the comments I saw it was serious. Some offered condolences; some did not even bother and settled it with a colon and an open parenthesis. The situation was real, and I learned through Facebook that a good friend of mine had died.
 

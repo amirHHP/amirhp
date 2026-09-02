@@ -2,6 +2,11 @@
 title: "Ninety days of living in Turkey"
 date: 2023-05-18T20:10:30+03:30
 draft: false
+categories:
+- Travel
+tags:
+- Turkey
+- Digital nomad
 ---
 (Part one): People in Turkey insist, to a degree that is hard to believe, on not understanding English. They will not even take *one* and *two* until you show it with your hands. I say they *will not* understand, because with a Latin script and this volume of tourists, you would speak English better than an Iranian even if you made no effort at all.
 

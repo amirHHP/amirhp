@@ -2,6 +2,10 @@
 title: "Search engines and the illusion of knowing"
 date: 2015-04-18T20:10:30+03:30
 draft: false
+categories:
+- Technology
+tags:
+- Search
 ---
 Use of search engines grows every day. As the volume of information on the internet rises sharply every month, access to what is there also gets harder. In a near future nobody will be able to find their own content easily. Out of necessity, lost and thirsty, they will reach one of the search engines so it can take them to the boundless sea of information. So in a future that has more or less already started, search engines become the main gate people use to enter the internet and cyberspace. In that situation it is enough to put your hand on that gate’s throat to control a large part of the people. That is the value of search engines.
 

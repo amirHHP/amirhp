@@ -2,6 +2,10 @@
 title: "The social graph: Márquez never knew"
 date: 2015-06-18T20:10:30+03:30
 draft: false
+categories:
+- Technology
+tags:
+- Social networks
 ---
 When Márquez, in *Love in the Time of Cholera*, put Florentino in a romantic purgatory opposite Fermina for more than half a century, he perhaps never knew the world would change so much that his lover’s running around would become this incomprehensible. Florentino lived in longing, hoping that by chance he would suddenly meet his beloved or see a sign of her. He wrote letters, traveled, asked others about her, and followed her by every path there was. Now cyberspace has tied every relationship together.
 

@@ -2,6 +2,8 @@
 title: "We all once thought the light had stayed red because of the cold"
 date: 2016-08-18T20:10:30+03:30
 draft: false
+categories:
+- Society
 ---
 More than forty people died because two passenger trains collided, and more were injured.
 

@@ -2,6 +2,11 @@
 title: "Tehlug and software socialism"
 date: 2015-08-18T20:10:30+03:30
 draft: false
+categories:
+- Free software
+tags:
+- Linux
+- Tehlug
 ---
 Sometimes some ideas are hard to explain to others. For people who have used proprietary software like Windows and Mac for years, and who every time they download a program look for a crack and a way around the author’s rights, it is hard to explain a word like “LUG,” or to talk about open-source gatherings. Even to many people who are specialists in software it is hard to make them see that in Tehran, for ten years, a group of people gathered, and as if they had lost each other for a long time they made plans, and with an indescribable thirst talked about their love for a class of software. Harder still is saying that this group lasted ten years in one breath, people came and went, and the thirst stayed in place. Some who were teenagers became young and, following that thirst, joined. You can look at the reason for that thirst and that lasting from several sides.
 

@@ -2,6 +2,10 @@
 title: "Ikiru: living at the hour of death"
 date: 2018-02-18T20:10:30+03:30
 draft: false
+categories:
+- Film and books
+tags:
+- Cinema
 ---
 > “Now and then I think of my own death, and in that state I fall to thinking how I can bear the last breath at all, while I have this kind of life, how I can leave it. I feel there are many other things I must do. I have the feeling I have lived very little, and at that time I sink into thought. But I do not become sad. It was from such a feeling that *Ikiru* came into being…”
 

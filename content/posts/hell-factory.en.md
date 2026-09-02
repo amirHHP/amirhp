@@ -2,6 +2,11 @@
 title: "Hell Glue Factory, and another look"
 date: 2016-08-18T20:10:30+03:30
 draft: false
+categories:
+- Society
+tags:
+- Work
+- Entrepreneurship
 ---
 A few days ago a photo spread on social media of mandatory prayer at Hell Glue Factory, a name you had probably, like me, never heard. After that, thanks to transparency or the CEO’s showing off (or whatever we call it), a lot of information about the workplace and the rules was reshared from the factory’s Twitter account (how many factories do you know that have a Twitter account?), telling of the manager’s strange and sometimes anti-human rules and his “slavery.” I was one of the first people to mock this CEO (what an honor!) and I certainly condemn mandatory prayer, but I tried to look at the story from another angle as well.
 

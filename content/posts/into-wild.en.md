@@ -2,6 +2,10 @@
 title: "On Into the Wild, and my growing wish for the wild"
 date: 2016-08-18T20:10:30+03:30
 draft: false
+categories:
+- Film and books
+tags:
+- Cinema
 ---
 When I watched [Into the Wild](http://www.imdb.com/title/tt0758758/) I found it like a strange, lost experience I had to dive into as soon as I could.
 

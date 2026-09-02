@@ -2,6 +2,10 @@
 title: "National without a nation"
 date: 2015-08-18T20:10:30+03:30
 draft: false
+categories:
+- Society
+tags:
+- Iran
 ---
 The word “national” became valuable for us once we grew sensitive to the appearances of being national. We stuck it on everything so a little national zeal would boil, and so we could take money for grand conferences and projects. Projects that sometimes had no economic justification, but on the excuse of being “national” could justify both the media and the costs.
 

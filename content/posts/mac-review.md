@@ -5,6 +5,10 @@ cover:
     image: "https://amirhp-photos.s3.ir-thr-at1.arvanstorage.ir/Screenshot-1402-04-18-at-1.31.40-PM.png"
 ShowToc: true
 draft: false
+categories:
+- فناوری
+tags:
+- اپل
 ---
 من بالاخره فرصت کردم تمام ریپلای‌هایی که درباره [توییتم](https://twitter.com/amir_hhp/status/1635300438143815682) شده بود رو بخونم. این برام یک مواجه جالب با شرایطی بود که عده زیادی قبولت ندارن شبیه این فیلم‌ها که بهت گوجه فرنگی پرت می‌کنن و برای همین دوست داشتم تحلیلش کنم. پاسخ‌ها چند دسته بود: 
 

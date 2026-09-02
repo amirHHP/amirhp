@@ -2,6 +2,10 @@
 title: "When they fall"
 date: 2023-05-18T20:10:30+03:30
 draft: false
+categories:
+- Product
+tags:
+- Organizations
 ---
 Organizations usually reach a point that looks like a point of no return. At that point the core of the organization “does not know that it does not know,” and it keeps going downhill with real force. The last days of these places, I think, have a recognizable shape.
 

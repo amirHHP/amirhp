@@ -2,6 +2,8 @@
 title: "Common questions about product management"
 date: 2022-12-30T18:03:17+03:30
 draft: false
+categories:
+- Product
 ---
 Many ideas, however clearly they are defined and standardized, take on different meanings in practice and in different places. Product management is one of those roles that is defined differently everywhere in the world. My years of working as a product manager in different companies, plus the reading I did in that time, gave me a deeper sense of where this role sits in Iran.
 

@@ -2,6 +2,10 @@
 title: "The Great Gatsby: suddenly a morning fog"
 date: 2014-02-18T20:10:30+03:30
 draft: false
+categories:
+- Film and books
+tags:
+- Literature
 ---
 “Astonishing” is surely the only word that, at the beginning, the middle, and the end of *The Great Gatsby*, keeps wandering in your mind. A wondrous story with magical descriptions, and you are often confused about how these words reached Scott Fitzgerald. A book you feel is extraordinary at every moment, but when you reach the end you see that the earlier extraordinariness falls short next to this sudden ending. An ending that, very quietly, without your noticing at all, swallows you.
 Note: this piece may contain spoilers. It may not.

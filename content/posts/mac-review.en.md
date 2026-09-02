@@ -5,6 +5,10 @@ cover:
     image: "https://amirhp-photos.s3.ir-thr-at1.arvanstorage.ir/Screenshot-1402-04-18-at-1.31.40-PM.png"
 ShowToc: true
 draft: false
+categories:
+- Technology
+tags:
+- Apple
 ---
 I finally found time to read every reply to [my tweet](https://twitter.com/amir_hhp/status/1635300438143815682). It was a strange confrontation: a lot of people not accepting you, like those films where they throw tomatoes. I wanted to take it apart. The replies fell into a few groups:
 

@@ -3,9 +3,9 @@ title: "The best free CRM and ERP software for organizations"
 date: 2017-01-18T20:10:30+03:30
 draft: false
 categories:
-- Tools
+- Free software
 tags:
-- Opensource
+- Open source
 ---
 Thirty years ago, when a PhD student at MIT grew tired of the monopoly on programming and decided to stand against that scientific prison, the idea of “free software” was born. These programs grew at a dizzying rate and helped the progress of programming a great deal. Organizations, like every other institution that depends on software, were caught in that wave and took a lot of open-source software inside. Today, besides programs backed by large companies, there are others that chose to release their software as open source, both to help organizational technology and to take another step out from under proprietary software.![](https://upload.wikimedia.org/wikipedia/commons/a/a6/Gnucash_2_screenshot.png)
 

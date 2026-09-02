@@ -2,6 +2,10 @@
 title: "A beginning, part two: Lean Startup Machine, an unexpected event"
 date: 2018-05-18T20:10:30+03:30
 draft: false
+categories:
+- Startup
+tags:
+- Mibarim
 ---
 “A beginning” is a series about how Mibarim took shape, and the path I took in those few years. Part one is [here](/en/posts/startup-story-1-school-scape/). This part is about an unexpected event that changed my work: Lean Startup Machine.
 

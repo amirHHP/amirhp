@@ -2,6 +2,10 @@
 title: "A beginning, part five: I found it, I found it"
 date: 2023-01-30T18:03:17+03:30
 draft: false
+categories:
+- Startup
+tags:
+- Mibarim
 ---
 In [part one](/en/posts/startup-story-1-school-scape/) I wrote about my last years of school, how I tried to run a magazine for real, and how that became my first journalism. In [part two](/en/posts/startup-story-2-lean-startup/) I wrote about a strange afternoon when, with no plan, I fell into starting a company. An idea that came first and never went beyond an idea. In [part three](/en/posts/startup-story-3-cofounder/) I wrote about why a cofounder matters, and how with Hamed the idea left our heads and became something we could run. In [part four](/en/posts/startup-story-4-deep-diving/) I left a steady job to make the shared-car dream real.
 

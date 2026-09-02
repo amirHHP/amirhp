@@ -2,6 +2,10 @@
 title: "Ten reasons some people become entrepreneurs"
 date: 2017-11-18T20:10:30+03:30
 draft: false
+categories:
+- Startup
+tags:
+- Entrepreneurship
 ---
 Preface: In this new series I want to write more, and more freely, about what I have lived. Breaking my old frames is hard, but I will try, unlike the newspaper and magazine writing I got used to, to come back to personal writing. “Ten reasons some people become entrepreneurs” is the first piece of this new chapter, and the plan is to publish something new every Saturday.
 

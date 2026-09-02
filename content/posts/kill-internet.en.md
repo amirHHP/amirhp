@@ -2,6 +2,11 @@
 title: "Rereading a note, on the occasion of a plan to kill freedom"
 date: 2012-02-18T20:10:30+03:30
 draft: false
+categories:
+- Society
+tags:
+- Internet
+- Freedom
 ---
 After all this time, without any preamble, I want to invite you to read an article titled “One bridge higher in 1391” by Arash Barahmand, a well-known ICT journalist. The note was published on the 20th of Esfand in Asr-e Ertebat weekly, page 2. A hot, fiery note that was a little strange to see in a newspaper.
 

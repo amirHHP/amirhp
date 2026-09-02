@@ -2,6 +2,11 @@
 title: "What a digital nomad is, and digital nomading on an Iranian passport — part one"
 date: 2023-04-18T20:10:30+03:30
 draft: false
+categories:
+- Travel
+tags:
+- Digital nomad
+- Iran
 ---
 I’ve spent a few days reading and thinking about digital nomads, and in this thread I want to say that for an Iranian — Iranian passport, rial income, no bank account — it “probably” does not look like those photos. Keep in mind this is less “travel” than “life,” and it has to feel like life.
 

@@ -3,6 +3,10 @@ title: "For Saber Rastikerdar, who saved the Persian font"
 date: 2023-10-18T20:10:30+03:30
 ShowToc: true
 draft: false
+categories:
+- Technology
+tags:
+- Fonts
 ---
 People keep mixing up my photo with Saber’s. That, I think, commits me to a few notes about these years and about the work he actually did. Why does Saber’s work matter more than the way people talk about it?
 

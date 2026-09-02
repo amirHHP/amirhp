@@ -2,6 +2,10 @@
 title: "The Sepas project, and my first struggle to find a partner"
 date: 2014-06-18T20:10:30+03:30
 draft: false
+categories:
+- Startup
+tags:
+- Cofounder
 ---
 A fairly long time has passed since the last post. In this one I want to write about the Sepas project, what happened to it, and the decisions that were made. In short, Sepas is a health app that will be designed in a particular way, with a particular user experience. With this software you can easily, without stress and pressure, lose, control, or gain weight.
 

@@ -2,6 +2,10 @@
 title: "The edge of human dreams in artificial intelligence"
 date: 2015-08-18T20:10:30+03:30
 draft: false
+categories:
+- Technology
+tags:
+- AI
 ---
 “It is predicted that by 2050 emotional and sexual relationships between robots and humans will become ordinary.” True Companion has now promised to build “the world’s first sex robot” and said its first product will enter the market by the end of the year. The product already has thousands of pre-orders. (quoted from BBC Persian)
 

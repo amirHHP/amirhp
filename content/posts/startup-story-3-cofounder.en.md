@@ -2,6 +2,11 @@
 title: "A beginning, part three: a cofounder is the first step into the adventure"
 date: 2019-02-18T20:10:30+03:30
 draft: false
+categories:
+- Startup
+tags:
+- Mibarim
+- Cofounder
 ---
 “A beginning” is a series about the adventures on my work path. Read [part one](/en/posts/startup-story-1-school-scape/) and [part two](/en/posts/startup-story-2-lean-startup/). This part is about a hidden need for starting: a cofounder.
 

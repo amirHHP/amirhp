@@ -20,11 +20,11 @@ menu:
       weight: -100
     - identifier: categories
       name: دسته‌بندی‌ها
-      url: /categories/
+      url: categories/
       weight: 10
     - identifier: tags
       name: برچسب‌ها
-      url: /tags/
+      url: tags/
       weight: 20
     - identifier: linkedin
       name: لینکدین
@@ -73,11 +73,11 @@ languages:
           weight: -110
         - identifier: categories
           name: Categories
-          url: /categories/
+          url: categories/
           weight: 10
         - identifier: tags
           name: Tags
-          url: /tags/
+          url: tags/
           weight: 20
         - identifier: linkedin
           name: LinkedIn

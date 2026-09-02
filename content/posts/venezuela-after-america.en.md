@@ -2,6 +2,11 @@
 title: "Hasn't Venezuela gotten better? Then why was inflation still this high?"
 date: 2026-09-01T20:10:30+03:30
 draft: false
+categories:
+- Society
+tags:
+- Economy
+- Venezuela
 ---
 ![venezuela](/images/venezuela.jpg)
 

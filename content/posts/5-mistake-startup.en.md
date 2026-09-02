@@ -2,6 +2,10 @@
 title: "Five fatal Iranian mistakes about that startup thing"
 date: 2018-01-18T20:10:30+03:30
 draft: false
+categories:
+- Startup
+tags:
+- Iran
 ---
 In Iran, startups have become the chicken of every feast and funeral. Whatever happens, it somehow ties back to startups. From the other side, even people you expect to know better say strange things. People usually start opining about startups without knowing what a startup is. In this piece I say why a lot of the complaints do not land.
 

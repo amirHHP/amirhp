@@ -2,6 +2,10 @@
 title: "A beginning, part one: running from school"
 date: 2018-03-18T20:10:30+03:30
 draft: false
+categories:
+- Startup
+tags:
+- Mibarim
 ---
 The gas mask is groaning on my face. The glass has fogged, but I can still see people’s faces through it. Blank, stunned faces. Some are surprised. Some could not care less. Some take the flyers from my hand and drop them a few steps away. A metaphor for our fate. At first they take us with excitement; when the excitement fades they throw us on the ground. I ask myself why I am standing here with a mask on my face. Why, instead of sitting at a desk in a large organization, am I handing out flyers in Vanak Square?
 

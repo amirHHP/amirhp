@@ -2,6 +2,11 @@
 title: "مگه اوضاع ونزوئلا بهتر نشده؟ چرا پس این قدر تورم داشتن؟"
 date: 2026-09-01T20:10:30+03:30
 draft: false
+categories:
+- جامعه
+tags:
+- اقتصاد
+- ونزوئلا
 ---
 ![venezuela](/images/venezuela.jpg)
 
