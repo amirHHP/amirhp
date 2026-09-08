@@ -98,7 +98,7 @@ languages:
 
 services:
   googleAnalytics:
-    ID: G-G17E8MKQ45
+    ID: G-MGGGGV9CC0
   disqus:
     shortname: amirhp-ir
 
