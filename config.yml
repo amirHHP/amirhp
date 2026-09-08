@@ -4,6 +4,9 @@ defaultContentLanguage: fa
 enableEmoji: true
 title: یادداشت‌های امیر اچ پی
 theme: 'PaperMod'
+author:
+  name: "Amir HP"
+  email: "ah.hosseini1372@gmail.com"
 description: 'سد'
 profileMode.enabled: true
 ShowShareButtons: true
@@ -86,7 +89,11 @@ languages:
     params:
       homeInfoParams:
         Title: Amir HP 👨‍💻✈️🚀🏕️🧳
-        Content: Product manager, formerly founder and journalist. Curious about discovering and building new things.
+        Avatar: /images/avatar.jpg
+        Content: |
+          Product manager, former founder, and tech journalist.  
+          Passionate about open-source software, disruption, and incremental reform. Driven by curiosity to discover new ideas, build impactful digital products, and travel.  
+          Here I share personal notes and insights on product management, entrepreneurship, technology, books, and thoughts on life.
 
 services:
   googleAnalytics:
@@ -98,7 +105,11 @@ params:
     displayFullLangName: true
     homeInfoParams:
         Title: امیر اچ پی 👨‍💻✈️🚀🏕️🧳
-        Content: مدیرمحصول، قبل از آن فاندر و خبرنگار. علاقه‌مند به کشف و ساخت چیزهای جدید.
+        Avatar: /images/avatar.jpg
+        Content: |
+          مدیر محصول و هم‌بنیان‌گذار سابق؛ سال‌ها خبرنگار حوزه فناوری و شیفته نرم‌افزار آزاد.  
+          علاقه‌مند به برهم‌زنی و پیاده‌سازی اصلاحات تدریجی. کنجکاو در مسیر کشف ایده‌های نو، خلق محصولات مقیاس‌پذیر، سفر و یادگیری مداوم.  
+          در این یادداشت‌ها از تجربه‌های مدیریت محصول، فراز و نشیب‌های استارتاپی، فناوری، کتاب‌ها و هر آنچه ذهنم را درگیر می‌کند می‌نویسم.
     socialIcons:
         - name: linkedin
           url: https://linkedin.com/in/amirhp

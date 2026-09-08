@@ -1,0 +1,19 @@
+{{- with site.Params.homeInfoParams }}
+<article class="first-entry home-info">
+    {{- $avatar := .Avatar | default site.Params.homeInfoParams.Avatar }}
+    {{- if $avatar }}
+    <div class="home-info-avatar">
+        <img draggable="false" src="{{ $avatar | absURL }}" alt="{{ .Title | plainify }}" width="110" height="110" />
+    </div>
+    {{- end }}
+    <header class="entry-header">
+        <h1>{{ .Title | markdownify }}</h1>
+    </header>
+    <div class="entry-content">
+        {{ .Content | markdownify }}
+    </div>
+    <footer class="entry-footer">
+        {{ partial "social_icons.html" site.Params.socialIcons }}
+    </footer>
+</article>
+{{- end -}}
