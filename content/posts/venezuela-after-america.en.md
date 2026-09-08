@@ -7,6 +7,8 @@ categories:
 tags:
 - Economy
 - Venezuela
+images:
+- /images/venezuela.jpg
 ---
 ![venezuela](/images/venezuela.jpg)
 

@@ -87,6 +87,7 @@ languages:
           url: https://linkedin.com/in/amirhp
           weight: 30
     params:
+      images: ["images/avatar.jpg"]
       homeInfoParams:
         Title: Amir HP 👨‍💻✈️🚀🏕️🧳
         Avatar: /images/avatar.jpg
@@ -103,6 +104,7 @@ services:
 
 params:
     displayFullLangName: true
+    images: ["images/avatar.jpg"]
     homeInfoParams:
         Title: امیر اچ پی 👨‍💻✈️🚀🏕️🧳
         Avatar: /images/avatar.jpg
