@@ -14,5 +14,4 @@ Let us go over a story together. From 1993, when Mosaic was born as the first gr
 
 Something similar is happening to startups in Iran. Most of them also work in computing and IT, and in the past two years there was almost no event where startups formed in other fields, which might have let us say the growth was natural. On the surface this may look pleasant and profitable, but given how fast it has gone, the danger of this bubble bursting is high.
 
-[![Startup](http://amirhp.ir/wp-content/uploads/2015/03/Screenshot-20.png)](http://amirhp.ir/wp-content/uploads/2015/03/Screenshot-20.png)
 Now we have four accelerators, thousands of startups large and small, and — before I forget — Tehran is hosting [five Startup Weekends](http://tehran.startupweekend.ir/) for the first time in the world, at Amirkabir, Tehran, Sharif, Iran University of Science and Technology, and Shahid Beheshti. If seven startups come out of each, that is 35 startups in a single week.

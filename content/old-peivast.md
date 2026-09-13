@@ -2,6 +2,9 @@
 title: "بایگانی نوشته‌های پیوست"
 date: 2016-08-18T20:10:30+03:30
 draft: false
+aliases:
+- /بایگانی-نوشتارهایم-در-پیوست/
+- /%D8%A8%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%DB%8C-%D9%86%D9%88%D8%B4%D8%AA%D8%A7%D8%B1%D9%87%D8%A7%DB%8C%D9%85-%D8%AF%D8%B1-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA/
 ---
 ##### نوشته‌هایم از شماره ۱۹ به بعد از طریق [سایت جدید پیوست](http://peivast.com/archives/writers/amirhosein-hoseinipajooh/) در دسترس است. همین طورتا زمان اضافه شدن شماره‌های قبلی از طریق [مگا](https://mega.co.nz/#F!gZxxGAzQ!orVOG66TMAT4kj2N09n3EA) می‌توانید به بخش‌هایی از نسخه PDF شماره‌های قبلی دسترسی داشته باشید.
 

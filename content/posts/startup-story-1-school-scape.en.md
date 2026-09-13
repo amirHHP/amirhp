@@ -17,13 +17,11 @@ I mixed in some childish tricks, like taking ads from students. It did not work.
 
 In those four years I never managed to gather a motivated team. What remained were incomplete lessons in publishing, team-building, and selling.
 
-My interest in IT started then. I thought I should be a flag-bearer for a new generation of seventies IT people. (I once wrote a note against the communications minister of the time and almost got thrown out of school.) You can read that note, and one of the second-year issues, [here](http://amirhp.ir/wp-content/uploads/2018/03/exir3.pdf).
+My interest in IT started then. I thought I should be a flag-bearer for a new generation of seventies IT people. (I once wrote a note against the communications minister of the time and almost got thrown out of school.)
 
 ## Dreaming of university
 
 University was a world away from my dreams, but what I had helped me, in my second year, revive the scientific association’s magazine after four years. I wrote about Linux, the interest of those days, and tried to use pieces from [my blog](http://binazir.wordpress.com/). Once again I got stuck in a large part of layout and sales.
-
-[![](http://amirhp.ir/wp-content/uploads/2018/03/IMG_02332.jpg)](http://amirhp.ir/wp-content/uploads/2018/03/IMG_02332.jpg)
 
 The result of all this was that at twenty I walked into [Peivast](http://peivast.com/).
 
@@ -37,10 +35,8 @@ Calling important people and interviewing them at Peivast, for someone who feare
 
 ## A pure startup person
 
-My interest in startups began when the idea arrived in Iran, in 1392. Working at Peivast at twenty, I met strange people who put themselves through a great deal of pain so they would not follow a current, they would *make* one. People who fought hard and sometimes lost everything they had. The first report I wrote at Peivast was about one of the most interesting of them, [Amir Vahooshi](http://amirhp.ir/blog/1392/06/28/%da%af%d9%81%d8%aa%da%af%d9%88-%d8%a8%d8%a7-%d8%a7%d9%85%db%8c%d8%b1-%d9%88%d9%87%d9%88%d8%b4%db%8c-%d8%a8%db%8c%d9%be%e2%80%8c%d8%aa%db%8c%d9%88%d9%86%d8%b2-%d8%aa%d8%a7-%d8%af%db%8c%d8%ac%db%8c/), who built BeepTunes, has small and large startups in Rahnama’s portfolio, and now works on his foreign investment firm. (Mr. Vahooshi, I apologize here that when you search your name, my blog is the first result.)
+My interest in startups began when the idea arrived in Iran, in 1392. Working at Peivast at twenty, I met strange people who put themselves through a great deal of pain so they would not follow a current, they would *make* one. People who fought hard and sometimes lost everything they had. The first report I wrote at Peivast was about one of the most interesting of them, Amir Vahooshi, who built BeepTunes, has small and large startups in Rahnama’s portfolio, and now works on his foreign investment firm. (Mr. Vahooshi, I apologize here that when you search your name, my blog is the first result.)
 
 The idea of startups excited me more every day, until in Ordibehesht 1393, in the middle of one of those adventures, everything suddenly became real. For a withdrawn, quiet boy, going into the street to sell a product that did not exist was impossible. That is what happened at [Lean Startup Machine](http://leanstartupmachine.ir/).
-
-[![A beginning](http://amirhp.ir/wp-content/uploads/2018/03/IMAG04202-1.jpg)](http://amirhp.ir/wp-content/uploads/2018/03/IMAG04202-1.jpg)
 
 P.S. Every startup has a long backstory. “A beginning” is a series about how Mibarim started, and the path from years earlier to where we were then.

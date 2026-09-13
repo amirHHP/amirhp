@@ -25,8 +25,6 @@ In three minutes a five-person team formed. We started on Sepas. By chance, thre
 
 Those three days are a real turning point. I go to the park, I talk to people to see if they like the idea. I have to get close to strangers in a few minutes, which for me is impossible. Even less believable: I take 5,000 tomans from three people for an app that does not exist. That is where I understand what it means when a product has paying customers before it is built.
 
-[![Lean Startup Machine board](http://amirhp.ir/wp-content/uploads/2018/07/IMAG04192.jpg)](http://amirhp.ir/wp-content/uploads/2018/07/IMAG04192.jpg)
-
 In the end we won as the only team that had taken cash from users for the idea. I will never forget the moment a judge asked, “Can we see the money you took?” and I pulled those few thousand tomans out of my pocket and the room erupted. A strange, memorable afternoon.
 
 ## Trying to give birth

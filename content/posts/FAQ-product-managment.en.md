@@ -31,8 +31,6 @@ I suggest at least five years in a specific industry, in different roles. Someti
 
 Once you start as a PM or PO, your depth and long view are what save the team from crises and wrong turns. Soft skills and communication are also one of your strongest cards. People management sits with the Scrum Master, but your soft skills help you work better with stakeholders and engineering.
 
-Read more: [an introduction to product management, duties, and skills](http://theminiceo.ir/product-skills/%d9%85%d9%82%d8%af%d9%85%d9%87-%d8%a7%db%8c-%d8%a8%d8%b1-%d9%85%d8%af%db%8c%d8%b1%db%8c%d8%aa-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%8c-%d9%88%d8%b8%d8%a7%db%8c%d9%81-%d9%88-%d9%85%d9%87%d8%a7%d8%b1%d8%aa/)
-
 ## Do you need a specific degree or course?
 
 There are many product courses online, but they only make you a product specialist. To become a good product manager you have to be broad and experienced.
