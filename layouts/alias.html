@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="{{ with .Page.Language.Lang }}{{ . }}{{ else }}{{ site.LanguageCode | default "fa" }}{{ end }}">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>{{ .Page.Title | default site.Title }}</title>
+  <link rel="canonical" href="{{ .Permalink }}">
+  <meta name="robots" content="noindex, follow">
+  <meta http-equiv="refresh" content="0; url={{ .Permalink }}">
+  {{- partial "templates/opengraph.html" .Page }}
+  {{- partial "templates/twitter_cards.html" .Page }}
+</head>
+<body>
+  <p>Redirecting to <a href="{{ .Permalink }}">{{ .Page.Title | default .Permalink }}</a>...</p>
+</body>
+</html>

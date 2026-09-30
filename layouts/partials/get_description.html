@@ -1,0 +1,52 @@
+{{- $desc := "" -}}
+{{- with . -}}
+  {{- if .Description -}}
+    {{- $desc = .Description -}}
+  {{- else if .IsPage -}}
+    {{- $desc = .Summary -}}
+  {{- else if eq .Kind "term" -}}
+    {{- if eq .Language.Lang "fa" -}}
+      {{- if eq .Data.Singular "category" -}}
+        {{- $desc = printf "مجموعه یادداشت‌ها، مقالات و تجربیات دسته‌بندی «%s» در وبلاگ امیر حسین حسینی (امیر اچ پی) شامل تحلیل‌ها و تجارب زیسته." .Title -}}
+      {{- else -}}
+        {{- $desc = printf "مجموعه یادداشت‌ها، مقالات و تجربیات مرتبط با برچسب «%s» در وبلاگ امیر حسین حسینی (امیر اچ پی) به همراه تحلیل‌ها و نکات کاربردی." .Title -}}
+      {{- end -}}
+    {{- else -}}
+      {{- if eq .Data.Singular "category" -}}
+        {{- $desc = printf "Explore all articles, essays, and insights in the %s category on Amirhp's Notes by Amir HP, covering technology, startups, and product management." .Title -}}
+      {{- else -}}
+        {{- $desc = printf "Discover all notes, essays, and articles tagged with %s on Amirhp's Notes by Amir HP, featuring personal insights, reflections, and experiences." .Title -}}
+      {{- end -}}
+    {{- end -}}
+  {{- else if eq .Kind "taxonomy" -}}
+    {{- if eq .Language.Lang "fa" -}}
+      {{- if eq .Data.Singular "category" -}}
+        {{- $desc = "دسته‌بندی‌های موضوعی یادداشت‌های امیر اچ پی شامل مقالات و نوشته‌هایی درباره مدیریت محصول، استارتاپ، فناوری، جامعه و سفر." -}}
+      {{- else -}}
+        {{- $desc = "فهرست کامل برچسب‌ها و موضوعات مورد بحث در یادداشت‌ها و مقالات امیر حسین حسینی (امیر اچ پی) شامل موضوعات تخصصی و عمومی." -}}
+      {{- end -}}
+    {{- else -}}
+      {{- if eq .Data.Singular "category" -}}
+        {{- $desc = "Browse all topic categories across Amirhp's Notes, featuring essays on product management, tech startups, open source, travel, and society." -}}
+      {{- else -}}
+        {{- $desc = "Explore all tags and topics covered across essays and articles on Amirhp's Notes by Amir HP, covering technology, startups, books, and life." -}}
+      {{- end -}}
+    {{- end -}}
+  {{- else if or .IsSection (eq .Kind "section") -}}
+    {{- if eq .Language.Lang "fa" -}}
+      {{- $desc = printf "آرشیو کامل یادداشت‌ها و مقالات %s در وبلاگ امیر حسین حسینی (امیر اچ پی) شامل تجربیات مدیریت محصول، استارتاپ، فناوری و جامعه." .Title -}}
+    {{- else -}}
+      {{- $desc = printf "Complete archive of all articles, essays, and notes in %s on Amirhp's Notes by Amir HP, covering product management and tech startups." .Title -}}
+    {{- end -}}
+  {{- else if .IsHome -}}
+    {{- $desc = site.Params.description -}}
+  {{- else -}}
+    {{- $desc = site.Params.description -}}
+  {{- end -}}
+{{- end -}}
+{{- if not $desc -}}
+  {{- $desc = site.Params.description -}}
+{{- end -}}
+{{- $desc = ($desc | plainify | htmlUnescape | replaceRE "\\s+" " " | strings.TrimSpace) -}}
+{{- $desc = ($desc | truncate 155) -}}
+{{- $desc -}}

@@ -68,9 +68,9 @@ I finally found time to read every reply to [my tweet](https://twitter.com/amir_
 
 When I actually talked with them, their front sometimes shifted. About 30 percent of the people who started with insults and mockery entered a real conversation after I answered and invited them in. In that encounter I kept thinking: what did they do to us that we lost the tools of discussion? When we take sides like this over a computer system that sits miles from our identity — as if our identity had been attacked (and maybe some people have made Apple into their identity) — how are we going to talk on the day of freedom, when every kind of thinking is in the ring?
 
-![image-14020125125549675](https://amirhpnew.s3.ir-thr-at1.arvanstorage.ir/Screenshot140203142.png)
+![image-14020125125549675](/posts/Screenshot140203142.png)
 
-![image-14020125125549675](https://amirhpnew.s3.ir-thr-at1.arvanstorage.ir/Screenshot14020314.png)
+![image-14020125125549675](/posts/Screenshot14020314.png)
 
 A few problems with my thread:
 
@@ -86,7 +86,7 @@ A few problems with my thread:
 
 - Small things were mixed with large things. That made a reader hit something silly and dismiss the whole piece. The priority of the critiques was also unclear. It started with logging into a Mac, which was not necessarily the worst experience.
 
-![image-14020125125549675](https://amirhpnew.s3.ir-thr-at1.arvanstorage.ir/image-14020125125549675.png)
+![image-14020125125549675](/posts/image-14020125125549675.png)
 
 - I did not leave room for a fair critique. I could have written about the good parts somewhere, to give a sense of fairness. I did not.
 

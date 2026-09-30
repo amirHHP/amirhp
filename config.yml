@@ -7,7 +7,7 @@ theme: 'PaperMod'
 author:
   name: "Amir HP"
   email: "ah.hosseini1372@gmail.com"
-description: 'سد'
+description: "یادداشت‌ها و تجربیات امیر حسین حسینی (امیر اچ پی) در حوزه مدیریت محصول، استارتاپ، فناوری، نرم‌افزار آزاد و کتاب‌ها."
 profileMode.enabled: true
 ShowShareButtons: true
 menu:
@@ -62,6 +62,8 @@ languages:
     languageDirection: rtl
     title: یادداشت‌های امیر اچ پی
     weight: 1
+    params:
+      description: "یادداشت‌ها و تجربیات امیر حسین حسینی (امیر اچ پی) در حوزه مدیریت محصول، استارتاپ، فناوری، نرم‌افزار آزاد و کتاب‌ها."
   en:
     languageName: English
     languageCode: en
@@ -87,6 +89,7 @@ languages:
           url: https://linkedin.com/in/amirhp
           weight: 30
     params:
+      description: "Personal notes, essays, and insights by Amir HP on product management, startups, technology, open-source software, and books."
       images: ["images/avatar.jpg"]
       homeInfoParams:
         Title: Amir HP 👨‍💻✈️🚀🏕️🧳
@@ -103,6 +106,8 @@ services:
     shortname: amirhp-ir
 
 params:
+    env: production
+    description: "یادداشت‌ها و تجربیات امیر حسین حسینی (امیر اچ پی) در حوزه مدیریت محصول، استارتاپ، فناوری، نرم‌افزار آزاد و کتاب‌ها."
     displayFullLangName: true
     images: ["images/avatar.jpg"]
     homeInfoParams:

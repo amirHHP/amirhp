@@ -11,8 +11,6 @@ tags:
 
 *Ikiru* is one of those films that stay for a lifetime. Because those old questions came back to the front of my mind. What is the value of being alive? When should we pull the brake on routine and stop? Are we forever slaves of the system we were formed in? How long does slavery at work go on?
 
-![](http://stephenesherman.com/images/ikiru-patients.jpg)
-
 “To Live” (whose story Kurosawa took from Tolstoy’s *The Death of Ivan Ilyich*) tries to answer these questions with the story of Watanabe, a middle-aged clerk who has spent thirty years in a tiring office job. One day he suddenly looks death in the eye. Stomach cancer will finish him in six months.
 
 Stop here. Put yourself in this person’s place. Take your eyes off the monitor for a moment and think: if you learned you had only a few months left, what would “living” mean? I think this is a level of awareness. Your whole world changes. When you look at a “tree,” do you see the same “tree,” or does facing death turn your worldview over?
