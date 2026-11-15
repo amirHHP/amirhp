@@ -1,0 +1,6 @@
+<div class="audio-episode" style="margin: 0.5rem 0; padding: 0.6rem 1rem; background: var(--code-bg); border-radius: 8px; display: flex; align-items: center; gap: 0.8rem;">
+  <span style="font-size: 0.9rem; min-width: 120px; font-weight: 500;">{{ .Get "title" }}</span>
+  <audio controls preload="none" style="flex: 1; height: 36px;">
+    <source src="{{ .Get "src" }}" type='{{ with .Get "type" }}{{ . }}{{ else }}audio/mp4{{ end }}'>
+  </audio>
+</div>

@@ -33,6 +33,10 @@ menu:
       name: لینکدین
       url: https://linkedin.com/in/amirhp
       weight: 30
+    - identifier: audiobooks
+      name: کتاب‌های صوتی
+      url: /audiobooks/
+      weight: 25
     - identifier: page
       name: شعرها
       url: /poems/
