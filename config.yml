@@ -29,10 +29,6 @@ menu:
       name: برچسب‌ها
       url: tags/
       weight: 20
-    - identifier: linkedin
-      name: لینکدین
-      url: https://linkedin.com/in/amirhp
-      weight: 30
     - identifier: audiobooks
       name: کتاب‌های صوتی
       url: /audiobooks/
@@ -88,10 +84,6 @@ languages:
           name: Tags
           url: tags/
           weight: 20
-        - identifier: linkedin
-          name: LinkedIn
-          url: https://linkedin.com/in/amirhp
-          weight: 30
     params:
       description: "Personal notes, essays, and insights by Amir HP on product management, startups, technology, open-source software, and books."
       images: ["images/avatar.jpg"]
