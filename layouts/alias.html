@@ -1,17 +1,19 @@
 <!DOCTYPE html>
-<html lang="{{ with .Page.Language.Lang }}{{ . }}{{ else }}{{ site.LanguageCode | default "fa" }}{{ end }}">
+<html lang="{{ with .Page }}{{ with .Language }}{{ .Lang }}{{ end }}{{ else }}fa{{ end }}">
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>{{ .Page.Title | default site.Title }}</title>
+  <title>{{ with .Page }}{{ .Title | default site.Title }}{{ else }}{{ site.Title }}{{ end }}</title>
   <link rel="canonical" href="{{ .Permalink }}">
   <meta name="robots" content="noindex, follow">
   <meta http-equiv="refresh" content="0; url={{ .Permalink }}">
-  {{- partial "templates/opengraph.html" .Page }}
-  {{- partial "templates/twitter_cards.html" .Page }}
+  {{- with .Page }}
+  {{- partial "templates/opengraph.html" . }}
+  {{- partial "templates/twitter_cards.html" . }}
+  {{- end }}
 </head>
 <body>
-  <p>Redirecting to <a href="{{ .Permalink }}">{{ .Page.Title | default .Permalink }}</a>...</p>
+  <p>Redirecting to <a href="{{ .Permalink }}">{{ with .Page }}{{ .Title | default $.Permalink }}{{ else }}{{ .Permalink }}{{ end }}</a>...</p>
 </body>
 </html>
